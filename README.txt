@@ -2,10 +2,10 @@
 GIL
 ===
 
-Geometry Interaction Library
+Geometry Interaction Library for Pure Data / GEM.
 
 
-description
+Description
 -----------
 
 GIL is a set of Pure Data abstractions, aiming at the interaction of geometric objects or mouse cursor inside GEM.
@@ -18,9 +18,14 @@ This library is still work in progress.
 For questions or bug reports, contact me:
 mail@marianweger.com
 
+Download
+--------
 
-license
--------
+https://github.com/m---w/gil
+
+
+Copyright/License
+-----------------
 
 Copyright (C) 2011-2012  Marian Weger
 
